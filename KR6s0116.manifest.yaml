@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6s0116/v1
+canonical_location: https://kanripo.org/bkk/KR6s0116/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 開元寺求得經疏記等目錄
+  identifiers:
+    alt_id:
+    - T55n2169
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2169.xml
+    old_id: T55n2169
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0116_000.yaml, hash: 'sha256:990e5423c9173f954d57d013052af2f1299a778f7c142196aec37695e4ac6b54'}
+  - {seq: 1, filename: KR6s0116_001.yaml, hash: 'sha256:2c285d54225904a0f8682e049dbc6b25754f27ee269a66502b4d2b44922c4997'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0116_001.markers.yaml, hash: 'sha256:d5b737fd8693eea425abc887a71f86e1d4bdd8303c55b65c2d22e7330532cb8b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6s0116_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 527
+  label: 開元寺求得經疏記等目錄
+  type: juan
+  level: 1
+hash: sha256:5c92bb1079c10755d395c9481c50922021c50c239335cad496633ffc464f819b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T
