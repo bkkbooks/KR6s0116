@@ -17,9 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6s0116_000.yaml, hash: 'sha256:990e5423c9173f954d57d013052af2f1299a778f7c142196aec37695e4ac6b54'}
-  - {seq: 1, filename: KR6s0116_001.yaml, hash: 'sha256:2c285d54225904a0f8682e049dbc6b25754f27ee269a66502b4d2b44922c4997'}
+  - {seq: 1, filename: KR6s0116_001.yaml, hash: 'sha256:325e54e31c193ada1ab3ecd08d85f0eafd4504728047a4b6815ea4921802bd5d'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0116_001.markers.yaml, hash: 'sha256:d5b737fd8693eea425abc887a71f86e1d4bdd8303c55b65c2d22e7330532cb8b'}
+  - {seq: 0, role: markers, filename: assets/KR6s0116_000.markers.yaml, hash: 'sha256:4f8692320d6a6c36a01f073924efcba790fcd38af2bd7a20bd5e3358daa76a3d'}
+  - {seq: 1, role: markers, filename: assets/KR6s0116_001.markers.yaml, hash: 'sha256:dd604791d0409f69ff31544547a09cdc71c39ac7d61935e429bf1f2aa4ba69fc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -31,9 +32,6 @@ table_of_contents:
   label: 開元寺求得經疏記等目錄
   type: juan
   level: 1
-hash: sha256:5c92bb1079c10755d395c9481c50922021c50c239335cad496633ffc464f819b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d6123342dffa9295292cdf88d7bb11796d9f815c2770c681e27bc9d1c578abd3
 editions:
 - short: T
